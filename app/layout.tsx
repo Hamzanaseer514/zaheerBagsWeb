@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "Premium Bag Manufacturing | Bulk Orders & Custom Branding",
   description:
     "Trusted partner for high-quality bags in bulk. From schools to corporates – we design, manufacture, and deliver premium bags worldwide.",
-  generator: "v0.app",
+  generator: "Zaheer Sons",
 }
 
 export default function RootLayout({
