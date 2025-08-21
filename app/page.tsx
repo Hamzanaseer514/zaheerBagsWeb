@@ -103,13 +103,13 @@ export default function SchoolBagLanding() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <Badge variant="outline" className="mb-4 border-blue-300 text-blue-600">
-                About KidsBag Pro Manufacturing
+                About ZAMEER & SONS Manufacturing
               </Badge>
               <h2 className="text-4xl font-bold text-foreground mb-6">
                 15+ Years Creating <span className="text-blue-600">Happy School Days</span>
               </h2>
               <p className="text-muted-foreground mb-6 leading-relaxed text-lg">
-                Since 2008, KidsBag Pro has been the leading manufacturer of colorful, safe, and durable school bags for
+                Since 2008, ZAMEER & SONS has been the leading manufacturer of colorful, safe, and durable school bags for
                 children worldwide. Our child-focused designs combine fun colors, ergonomic features, and premium safety
                 standards to create bags that kids love to carry.
               </p>
@@ -661,8 +661,8 @@ export default function SchoolBagLanding() {
               Why Choose Us
             </Badge>
             <h2 className="text-3xl font-bold text-foreground mb-4">
-              Why Choose <span className="text-blue-600">KidsBag</span>
-              <span className="text-green-600">Pro</span> as Your School Bag Partner
+              Why Choose <span className="text-blue-600">ZAMEER & </span>
+              <span className="text-green-600">SONS</span> as Your School Bag Partner
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               We deliver exceptional value through our child-focused manufacturing, colorful innovations, and unwavering
@@ -939,7 +939,7 @@ export default function SchoolBagLanding() {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <h3 className="text-2xl font-bold mb-4">
-                KidsBag<span className="text-yellow-400">Pro</span>
+                ZAMEER & <span className="text-yellow-400">SONS</span>
               </h3>
               <p className="text-blue-100 mb-6 leading-relaxed">
                 Making school days brighter with colorful, safe, and durable school bags that kids love!
@@ -949,13 +949,13 @@ export default function SchoolBagLanding() {
                   <div className="p-1 bg-yellow-400/20 rounded">
                     <Phone className="h-4 w-4 text-yellow-400" />
                   </div>
-                  +1 (555) KIDS-BAG
+                  0308-8888415
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="p-1 bg-yellow-400/20 rounded">
                     <Mail className="h-4 w-4 text-yellow-400" />
                   </div>
-                  hello@kidsbagpro.com
+                  arslanzamir@gmail.com
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="p-1 bg-yellow-400/20 rounded">
@@ -1000,7 +1000,7 @@ export default function SchoolBagLanding() {
 
           <div className="border-t border-blue-700 mt-12 pt-8 text-center text-sm text-blue-100">
             <p>
-              &copy; 2024 KidsBag Pro Manufacturing. Making school days colorful! | Trusted by 1000+ schools worldwide
+              &copy; 2024 ZAMEER & SONS Manufacturing. Making school days colorful! | Trusted by 1000+ schools worldwide
               🎒✨
             </p>
           </div>

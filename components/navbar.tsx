@@ -24,11 +24,11 @@ export function Navbar() {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Phone className="h-4 w-4" />
-              <span>+1 (555) 123-4567</span>
+              <span>0432-5244335</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="h-4 w-4" />
-              <span>sales@bagcraft.com</span>
+              <span>arslanzamir@gmail.com</span>
             </div>
           </div>
           <div className="hidden md:block">
