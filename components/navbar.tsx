@@ -43,7 +43,7 @@ export function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold text-blue-700 ">
-              ZAHEER {" "} & {" "} <span className="text-blue-700"> SONS</span>
+              ZAMEER & <span className="text-blue-700"> SONS</span>
             </h1>
           </div>
 
