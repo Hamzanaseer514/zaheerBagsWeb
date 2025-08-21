@@ -42,8 +42,8 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-2xl font-bold text-blue-600 ">
-           Zaheer & <span className="text-blue-700">Sons</span>
+            <h1 className="text-2xl font-bold text-blue-700 ">
+              ZAHEER {" "} & {" "} <span className="text-blue-700"> SONS</span>
             </h1>
           </div>
 
