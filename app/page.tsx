@@ -605,17 +605,17 @@ export default function SchoolBagLanding() {
               {
                 title: "Corporate Laptop Bags - TechCorp",
                 description: "5,000 custom branded laptop bags with logo embroidery",
-                image: "/placeholder-xte70.png",
+                image: "/colorful-ergonomic-school-bags.png",
               },
               {
                 title: "University Backpacks - State University",
                 description: "15,000 student backpacks with university colors and logo",
-                image: "/placeholder-icyhu.png",
+                image: "/colorful-ergonomic-school-bags.png",
               },
               {
                 title: "Travel Bags - Adventure Co",
                 description: "3,000 premium travel duffel bags for outdoor retailer",
-                image: "/placeholder-9dr53.png",
+                image: "/colorful-ergonomic-school-bags.png",
               },
               {
                 title: "School Bags - Education District",
@@ -625,12 +625,12 @@ export default function SchoolBagLanding() {
               {
                 title: "Sports Bags - Athletic League",
                 description: "8,000 team sports bags with custom team logos",
-                image: "/placeholder-gusxi.png",
+                image: "/colorful-ergonomic-school-bags.png",
               },
               {
                 title: "Manufacturing Process",
                 description: "Inside our state-of-the-art production facility",
-                image: "/placeholder-9af38.png",
+                image: "/colorful-ergonomic-school-bags.png",
               },
             ].map((item, index) => (
               <Card key={index} className="group hover:shadow-xl transition-all duration-300">
@@ -866,7 +866,7 @@ export default function SchoolBagLanding() {
                 <CardContent className="pt-6">
                   <div className="flex mb-4">
                     {[...Array(testimonial.rating)].map((_, i) => (
-                      <Star key={i} className="h-5 w-5 fill-accent text-accent" />
+                      <Star key={i} className="h-5 w-5 fill-accent text-yellow-500" />
                     ))}
                   </div>
                   <blockquote className="text-muted-foreground mb-4 leading-relaxed">"{testimonial.quote}"</blockquote>
@@ -924,7 +924,7 @@ export default function SchoolBagLanding() {
                 </div>
                 <Button
                   size="lg"
-                  className="w-full text-lg py-6 bg-gradient-to-r from-yellow-400 to-orange-500 hover:from-yellow-500 hover:to-orange-600 text-white font-bold"
+                  className="w-full text-sm sm:text-md md:text-lg py-6 bg-gradient-to-r from-yellow-400 to-orange-500 hover:from-yellow-500 hover:to-orange-600 text-white font-bold"
                 >
                   Get Free School Bag Samples! 🎒
                 </Button>
